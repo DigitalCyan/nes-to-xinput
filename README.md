@@ -34,3 +34,6 @@
     Example: `cargo run -- COM1`
 
 6. If no error pops up that should be it, you can test your controller [here](https://gamepad-tester.com/).
+
+# Extra
+If you want, you can build the bridge by running `cargo build` and run it as an usual binary. That way you can have the setup be standalone from the project.
